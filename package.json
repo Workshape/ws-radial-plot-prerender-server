@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "canvas": "0.12.x",
-    "cli-color": "^0.3.2",
     "color": "^0.7.3",
     "express": "^4.11.2"
   },
