@@ -24,7 +24,7 @@ The server will be started `http://localhost:2000` or listen to a custom set by 
 
 # Endpoints
 
-### `GET /size/:size/?v=values[ &c=compare_values ]` - Render a shape of given size
-* **Size** (`String`) - Standardised size of the rendered image - values: `small`: 250x250 | `medium`: 500x500 px | `large`: 1000x1000
-* **v** (`[ Number ]`) - Comma-separated shape values.
-* **c** (`[ Number ]`) - Comma-separated compare shape values.
+#### `GET /size/:size/?v=values[ &c=compare_values ]` - Render a shape of given size
+* **size** (`String`) - Standardised size of the rendered image - values: `small : 250x250 | medium : 500x500 | large : 1000x1000`
+* **v** (values) (`[ Number ]`) - Comma-separated shape values.
+* **c** (compare_values) (`[ Number ]`) - Comma-separated compare shape values.
