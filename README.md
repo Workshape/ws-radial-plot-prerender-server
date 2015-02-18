@@ -35,4 +35,4 @@ The server will be started `http://localhost:2000` or listen to a custom set by 
 
 MIT
 
-Copyright (c) 2014 Workshaoe.io Ltd
+Copyright (c) 2014 Workshape.io Ltd
