@@ -28,3 +28,9 @@ The server will be started `http://localhost:2000` or listen to a custom set by 
 * **Size** (`String`) - Standardised size of the rendered image - values: `small`: 250x250 | `medium`: 500x500 px | `large`: 1000x1000
 * **v** (`[ Number ]`) - Comma-separated shape values.
 * **c** (`[ Number ]`) - Comma-separated compare shape values.
+
+# License
+
+MIT
+
+Copyright (c) 2014 Workshaoe.io Ltd
