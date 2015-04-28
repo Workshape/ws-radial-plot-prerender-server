@@ -11,6 +11,7 @@
   "dependencies": {
     "canvas": "1.1.x",
     "color": "^0.7.3",
-    "express": "^4.11.2"
+    "express": "^4.11.2",
+    "request": "^2.55.0"
   }
 }
